@@ -17,6 +17,12 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date()
 }
+        {
+          key: "call",
+          value: "enabled",
+          createdAt: new Date(),
+          updatedAt: new Date()
+}
       ],
       {}
     );
